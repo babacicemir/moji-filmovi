@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Moji Filmovi</string>
+    <string name="moji_filmovi">Moji filmovi</string>
+    <string name="kviz">Kviz</string>
+    <string name="pogodi_film">Pogodi film</string>
+    <string name="info">O aplikaciji</string>
+    <string name="logo_aplikacije">Logo aplikacije</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+    <string name="enter_your_word">Unesi riječ</string>
+    <string name="wrong_guess">Pogrešan odgovor</string>
+    <string name="try_again">Pokušaj opet</string>
+    <string name="ok">Ok</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="your_score">Rezultat: %1$d</string>
+    <string name="share">Share</string>
+    <string name="restart">Restart</string>
+    <string name="greska_kviz">Pitanje se učitava...</string>
+    <string name="nazad">Nazad</string>
+    <string name="podijeli_aplikaciju">Podijeli aplikaciju</string>
+    <string name="nacin_shareanja">Podijeli rezultat putem: </string>
+    <string name="share_score">Upravo sam završio kviz! Moj rezultat je: %1$d. Ako želiš pobijediti moj rezultat, preuzmi aplikaciju :)</string>
+    <string name="guess_movie_instruction">Pogodi riječ koristeći razbacana slova</string>
+    <string name="app_info">
+         Moji Filmovi je aplikacija koja vam nudi zabavne filmske izazove i u kojojj možete da testirate svoje znanje!\n\n
+        - Moji Filmovi: Mogućnost da sve svoje pregledane filmove imate na jednom mjestu .\n
+        - Kviz: Odgovarajte na filmska pitanja. Za tačan odgovor dobijate 5 bodova, netačan oduzima 3, a preskakanje 2 boda.\n
+        - Pogodi Film: Prepoznajte film iz izmiješanih slova! Tačan odgovor donosi 10 bodova, netačan oduzima 5, a preskakanje oduzima 3 boda.\n\n
+    </string>
+    <string name="rezultat">REZULTAT</string>
+    <string name="quit">Quit</string>
+    <string name="share_app">Ukoliko želiš da sve svoje pogledane filmove imaš na jednom mjestu ili ako želiš testirati svoje znanje u vezi filmova, skini aplikaciju "Moji filmovi".</string>
+    <string name="dodaj_film">Dodaj film</string>
+    <string name="nema_filmova">Nema filmova</string>
+    <string name="naziv_filma">Naziv filma</string>
+    <string name="zanr">Zanr</string>
+    <string name="godina">Godina</string>
+    <string name="ocjena">Ocjena</string>
+
+</resources>
